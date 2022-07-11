@@ -1,2 +1,0 @@
-https://backlog.com/git-tutorial/cn/intro/intro4_1.html
-教程2  共享数据库  在贝格乐建立远程数据库
